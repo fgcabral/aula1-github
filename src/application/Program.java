@@ -9,6 +9,8 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("teste git");
+		
 		sc.close();	}
 
 }
