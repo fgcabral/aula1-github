@@ -9,7 +9,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("teste git");
+		System.out.println("teste git3");
 		
 		sc.close();	}
 
