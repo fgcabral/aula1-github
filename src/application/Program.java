@@ -10,7 +10,6 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("teste git");
-		System.out.println("teste git2");
 		
 		sc.close();	}
 
